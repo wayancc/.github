@@ -18,12 +18,13 @@ Self-hosted. Runs on cheap PHP hosting. Zero external requests.
 | **[Inkdocs](https://github.com/wayancc/inkdocs)** | Flat-file docs engine. Write Markdown, ship docs: cached static HTML on shared hosting, or a full static export for GitHub Pages. Versioning, search, Mermaid and `llms.txt` built in. | MIT |
 | **[Vigil](https://github.com/wayancc/vigil)** | Uptime monitor and public status page. HTTP, keyword, TCP, heartbeat and SSL checks, with alerts to email, Telegram, Slack, Discord, ntfy and signed webhooks. | AGPL-3.0 |
 | **[Wyn Forms](https://github.com/wayancc/wyn-forms)** | Form backend for static sites. Point any HTML form at `/f/{key}` and get spam filtering, an inbox, file uploads and notifications. | AGPL-3.0 (embed script MIT) |
+| **[Wyn Analytics](https://github.com/wayancc/wyn-analytics)** | Know your visitors. Not who they are. Cookieless analytics with a 1.8 KB script, goals, filters, public stats pages and an API. No personal data stored. | AGPL-3.0 (tracking script MIT) |
 
-First public releases: **v0.1.0**.
+All released as **v0.1.0**, October 2026.
 
 ## BETTER TOGETHER.
 
-Build your docs or static site with **Inkdocs** → collect contact and feedback forms with **Wyn Forms** → watch both with **Vigil** and give users a public status page.
+Build your docs or static site with **Inkdocs** → collect contact and feedback forms with **Wyn Forms** → watch both with **Vigil** and give users a public status page → count visitors and form conversions with **Wyn Analytics**, without cookies.
 
 ## HOW WE BUILD.
 
